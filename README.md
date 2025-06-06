@@ -9,5 +9,6 @@ Dashboard project for WAWG CAP units based on [Smashing.io](http://smashing.gith
 5) sudo git clone https://github.com/Civil-Air-Patrol-Washington-Wing/NewDash.git
 6) cd NewDash
 7) sudo smashing start
+8) Open web browser and navigate to http://localhost:3030/*DASHBOARDNAMEHERE*
 
 Check out http://smashing.github.io/smashing for more information.
